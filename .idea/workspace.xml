@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="596df8dc-4097-401e-b1ce-ef77711ea0cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Import-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Import-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Import.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Import.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -139,9 +137,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Library/Jupyter/runtime/nbserver-3591-open.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Jupyter/runtime/nbserver-3591-open.html" />
     <entry file="file://$PROJECT_DIR$/DataImport.ipynb" />
     <entry file="file://$PROJECT_DIR$/Import.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
