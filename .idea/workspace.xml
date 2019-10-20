@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="596df8dc-4097-401e-b1ce-ef77711ea0cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Import-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Import-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Import.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Import.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/Import.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="2" />
             </state>
           </provider>
         </entry>
@@ -43,7 +45,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="23" />
+    <option name="x" value="-1" />
+    <option name="y" value="35" />
     <option name="width" value="1440" />
     <option name="height" value="824" />
   </component>
@@ -52,6 +55,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -63,7 +67,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,7 +118,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="824" extended-state="0" />
+    <frame x="-42" y="23" width="1440" height="824" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -142,7 +145,7 @@
     <entry file="file://$PROJECT_DIR$/Import.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <selected id="2" />
         </state>
       </provider>
     </entry>
